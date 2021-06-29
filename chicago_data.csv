@@ -1,0 +1,138 @@
+,city,latitude,longitude,name_companie
+1,Chicago,41.885619,-87.622309,Info
+2,Chicago,41.889474,-87.628912,Google
+3,Chicago,41.889474,-87.628912,FeedBurner
+5,Chicago,41.8892178,-87.6557234,37signals
+10,Chicago,41.881769,-87.638752,Parlano
+12,Chicago,41.892774,-87.621982,PrepMe
+13,Chicago,41.890376,-87.63406,Viewpoints
+14,Chicago,41.8831959,-87.6517774,eXelate
+19,Chicago,41.907647,-87.649878,GrubHub
+20,Chicago,41.883551,-87.636411,Mpayy
+21,Chicago,41.896499,-87.643622,The Point
+26,Chicago,42.010632,-87.66831,Inkling
+27,Chicago,41.886368,-87.641739,Academic Capital Exchange
+29,Chicago,41.88583,-87.657354,crowdSPRING
+31,Chicago,42.040851,-87.750643,Ifbyphone
+35,Chicago,41.9577761,-87.6556468,Planypus
+37,Chicago,41.879979,-87.634173,Networked Insights
+39,Chicago,41.882865,-87.643545,CapAlly
+40,Chicago,41.8864688,-87.6322669,Undertone
+41,Chicago,41.879535,-87.624333,"One Day, One Job"
+43,Chicago,41.925823,-87.711114,The Beer Mapping Project
+44,Chicago,36.009825,-78.922055,Beer Universe
+45,Chicago,41.89131,-87.624564,SignMeUp
+46,Chicago,41.8819283,-87.6445473,Razorfish
+47,Chicago,41.936737,-87.648056,Media Next
+48,Chicago,41.924899,-87.640442,Fave Media
+49,Chicago,37.7867392,-122.4013875,Rapleaf
+50,Chicago,41.910737,-87.674015,Pitchfork Media
+52,Chicago,41.879535,-87.624333,Ars Technica
+53,Chicago,41.883195,-87.638807,Boeing
+54,Chicago,41.876499,-87.624179,Zap2it
+55,Chicago,41.881876,-87.639713,Acquity Group
+56,Chicago,41.8710347,-87.629552,AnswerOil
+57,Chicago,42.010632,-87.66831,DormTrader
+59,Chicago,41.879535,-87.624333,Soceeo
+61,Chicago,41.879535,-87.624333,MarketSimplified
+62,Chicago,41.882401,-87.637816,CohesiveFT
+64,Chicago,41.8892858,-87.6243646,iProspect
+66,Chicago,41.917811,-87.659117,AblePlay
+67,Chicago,41.857204,-87.623923,JumpForward
+68,Chicago,41.8883695,-87.6353645,Signal
+69,Chicago,41.881978,-87.630125,Discovery Mining
+70,Chicago,41.9035331,-87.6314159,Seven Lights
+71,Chicago,41.88623,-87.623704,Shoplocal
+72,Chicago,41.831001,-87.626918,LiquidTalk
+73,Chicago,41.886088,-87.624983,Ocean Online Group
+74,Chicago,41.886264,-87.624701,SEOGroup
+76,Chicago,41.877913,-87.649228,Snipitron
+77,Chicago,41.895858,-87.635153,The Onion
+78,Chicago,41.877867,-87.634781,SingleHop
+80,Chicago,41.87675,-87.640458,SAVO
+81,Chicago,41.886477,-87.643119,Cognitor
+82,Chicago,42.0412,-87.6903,Key Administrative Associates
+83,Chicago,41.977257,-87.668365,Mightybytes
+84,Chicago,41.8789816,-87.6366875,SPSS
+85,Chicago,41.972002,-87.703656,Digital Stampede
+88,Chicago,41.886048,-87.625743,Shop Like Anna
+91,Chicago,41.94038,-87.65318,LeapRE
+92,Chicago,41.8908028,-87.6316617,Having Things Done
+93,Chicago,41.916619,-87.686634,Where I've Been
+96,Chicago,41.893397,-87.61694,Lime Productions
+99,Chicago,41.94038,-87.65318,LeapRE
+100,Chicago,41.8908028,-87.6316617,Having Things Done
+101,Chicago,41.916619,-87.686634,Where I've Been
+104,Chicago,41.893397,-87.61694,Lime Productions
+105,Chicago,41.889556,-87.623861,P3 New Media
+106,Chicago,41.9293,-87.697878,PageTraffic
+107,Chicago,41.890441,-87.629377,Ratchet
+108,Chicago,41.8965162,-87.643622,Groupon
+109,Chicago,41.940768,-87.655648,FYIndOut
+112,Chicago,41.877493,-87.633192,Freebo
+113,Chicago,41.879535,-87.624333,Reverse Mortgage Guides
+114,Chicago,41.889183,-87.632519,SureSpeak
+116,Chicago,41.887033,-87.620229,Magellan Development
+117,Chicago,41.975543,-87.715498,InoPrints
+118,Chicago,41.893622,-87.627423,BAM Studios
+119,Chicago,41.8961282,-87.6371628,Model Metrics
+120,Chicago,41.8790291,-87.6385324,GC Marshall
+121,Chicago,41.8851542,-87.6223183,Brickfish
+123,Chicago,41.8724939,-87.6274451,Dillyeo
+124,Chicago,41.889853,-87.6355433,Centro
+126,Chicago,41.889183,-87.632519,The Search Engine Guys
+127,Chicago,41.907542,-87.66299,Plugola
+128,Chicago,41.881065,-87.62903,Sapient
+129,Chicago,41.879535,-87.624333,cago
+130,Chicago,41.7052783,-86.9118758,TwentyFour6
+131,Chicago,41.882449,-87.637269,FirstDIBZ
+132,Chicago,41.890637,-87.626979,Commercial IQ
+136,Chicago,41.889183,-87.632519,MarketForward
+137,Chicago,41.9655805,-87.6740776,PerkSpot
+138,Chicago,41.890421,-87.630765,Adeptia
+140,Chicago,41.882301,-87.634311,Initiate Systems
+141,Chicago,42.0077207,-87.8240249,Delivered Innovation
+142,Chicago,41.878984,-87.637,Open Kernel Labs
+143,Chicago,41.886511,-87.626777,Blueprint Design Studio
+144,Chicago,41.8812179,-87.637522,Good Technology
+145,Chicago,41.87743,-87.666193,TimeXchange
+146,Chicago,41.885408,-87.625677,midVentures
+147,Chicago,41.951198,-87.649563,doejo
+149,Chicago,41.8879192,-87.6354206,Sittercity
+150,Chicago,41.8964988,-87.6436218,Manifest Digital
+152,Chicago,41.911174,-87.679049,Sheridan Partners Corporate Development
+153,Chicago,41.883797,-87.64228,Dawdle
+154,Chicago,41.878984,-87.637,DigitalArmm
+155,Chicago,41.880225,-87.640379,Applimation
+157,Chicago,41.879535,-87.624333,Coupon Tweet
+158,Chicago,41.877475,-87.634123,nLayer Communications
+159,Chicago,41.919481,-87.673995,homeValence
+160,Chicago,41.5911112,-87.342177,Neustep
+161,Chicago,41.881607,-87.632735,Jobspring Partners
+162,Chicago,41.881607,-87.632735,Workbridge Associates
+163,Chicago,41.8842919,-87.6245237,ActiveCampaign
+164,Chicago,41.890178,-87.634115,Magnetic
+165,Chicago,41.886624,-87.6267867,MC+A
+166,Chicago,42.377467,-71.401307,Infobright
+167,Chicago,41.8719878,-87.6416957,iPlanmaker
+170,Chicago,41.879535,-87.624333,Synonym
+171,Chicago,41.879535,-87.624333,Newser
+172,Chicago,41.8831954,-87.638807,Hostway
+174,Chicago,41.875026,-87.628933,Compel Interaction
+177,Chicago,41.8842919,-87.6245237,W3 Business Advisors
+178,Chicago,41.8819283,-87.6445473,YesFreelance
+181,Chicago,41.8819098,-87.6367792,Invenergy
+182,Chicago,41.879535,-87.624333,Me!Box Media
+183,Chicago,41.9205483,-87.6531805,Statugle
+184,Chicago,41.879641,-87.6425816,Firm58
+186,Chicago,41.889183,-87.632519,Performics
+190,Chicago,41.9174637,-87.6664837,Eventric
+191,Chicago,41.8464166,-87.6679765,Dosensio
+195,Chicago,41.879535,-87.624333,Route Sense
+198,Chicago,41.881978,-87.630125,Mirage Networks
+199,Chicago,41.879733,-87.63449,Headstrong
+200,Chicago,41.880169,-87.624926,Sky Bird Travel  Tours
+201,Chicago,41.663359,-87.6259052,Hiremac
+202,Chicago,41.879535,-87.624333,Midway Games
+203,Chicago,41.8879194,-87.6354249,CCC Information Services
+204,Chicago,41.8806258,-87.6356066,optionsXpress
